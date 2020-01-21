@@ -1,0 +1,151 @@
+﻿  exceptio.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\exceptio.c(69,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\exceptio.c(79,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+  genlib.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\genlib.c(121,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 参见“vsprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\genlib.c(136,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+  graphics.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(790,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : 参见“freopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(791,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : 参见“freopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(822,18): warning C4101: “consoleRect”: 未引用的局部变量
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(1268,59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(1269,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(1270,61): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\graphics.c(1657,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  linkedlist.c
+  random.c
+  simpio.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\simpio.c(145,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : 参见“strncpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\simpio.c(157,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+  strlib.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(53,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(54,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(82,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : 参见“strncpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(109,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(139,15): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(152,15): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(194,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(206,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(216,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\LibGraphics\strlib.c(226,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 参见“sscanf”的声明
+  imgui.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(80,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(81,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(82,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(83,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(89,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(90,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(91,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(92,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(98,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(99,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(100,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\SimpleGUI\imgui.c(101,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+  Tetris.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(105,15): warning C4013: “cancelTimer”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(241,17): warning C4013: “startTimer”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(277,17): warning C4013: “DisplayClear”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(331,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(332,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(412,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(414,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(486,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(497,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(508,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(519,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(765,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(776,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(777,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(802,20): warning C4047: “函数”:“int”与“void *”的间接级别不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(802,20): warning C4024: “memset”: 形参和实参 2 的类型不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(810,20): warning C4047: “函数”:“int”与“void *”的间接级别不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(810,20): warning C4024: “memset”: 形参和实参 2 的类型不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(817,20): warning C4047: “函数”:“int”与“void *”的间接级别不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(817,20): warning C4024: “memset”: 形参和实参 2 的类型不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(825,20): warning C4047: “函数”:“int”与“void *”的间接级别不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(825,20): warning C4024: “memset”: 形参和实参 2 的类型不同
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(803,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(811,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(818,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(826,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(874,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(884,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(925,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\Tetris.c(961,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+  TetrisGame.c
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(161,14): warning C4013: “DisplayClear”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(264,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(369,11): warning C4013: “Randomize”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(412,12): warning C4013: “startTimer”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(419,13): warning C4013: “cancelTimer”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(433,16): warning C4013: “DisplayPause3”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(437,16): warning C4013: “DisplayPause2”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(440,16): warning C4013: “DisplayPause1”未定义；假设外部返回 int
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(451,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(454,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(458,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(462,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(464,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(465,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(466,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(467,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Tetris\TetrisGame.c(471,1): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 参见“fscanf”的声明
+  TetrisPic.c
+  正在生成代码...
+  LINK : 没有找到 C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Debug\Tetris.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Tetris.vcxproj -> C:\Users\Raymond-Ziyue\OneDrive - zju.edu.cn\大一\C程序设计基础_专题\C-LibGraphics-Tetris-master\Debug\Tetris.exe

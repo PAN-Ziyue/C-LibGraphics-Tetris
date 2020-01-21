@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Tetris.c" />
+    <ClCompile Include="LibGraphics\exceptio.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\genlib.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\graphics.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\random.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\simpio.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\strlib.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="TetrisPic.c" />
+    <ClCompile Include="TetrisGame.c" />
+    <ClCompile Include="SimpleGUI\imgui.c">
+      <Filter>SimpleGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="LibGraphics\linkedlist.c">
+      <Filter>Lib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LibGraphics\exception.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\extgraph.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\gcalloc.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\genlib.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\graphics.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\random.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\simpio.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\strlib.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="TetrisPic.h" />
+    <ClInclude Include="TetrisGame.h" />
+    <ClInclude Include="SimpleGUI\imgui.h">
+      <Filter>SimpleGUI</Filter>
+    </ClInclude>
+    <ClInclude Include="LibGraphics\linkedlist.h">
+      <Filter>Lib</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Lib">
+      <UniqueIdentifier>{8f726684-43be-48a1-b344-40d04559f014}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Images">
+      <UniqueIdentifier>{7c615614-0899-4cfa-b4dd-fc177e1c2390}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SimpleGUI">
+      <UniqueIdentifier>{1ef80160-b2a1-42ba-8b26-7463310c639e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File">
+      <UniqueIdentifier>{6a6f3d7a-7ae6-47bc-8b77-1cda1ea55e2f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GameBack.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="Pause.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="CountDown1.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="CountDown2.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="CountDown3.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="quit.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="instuction 1.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="instuction 2.bmp">
+      <Filter>Images</Filter>
+    </Image>
+    <Image Include="instuction 3.bmp">
+      <Filter>Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Record.txt">
+      <Filter>File</Filter>
+    </Text>
+    <Text Include="Save.txt">
+      <Filter>File</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
